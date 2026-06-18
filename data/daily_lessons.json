@@ -1,0 +1,231 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "level": "A2",
+      "title": "Everyday Greetings and Introductions",
+      "description": "Learn how to greet people and introduce yourself in English",
+      "vocabulary": [
+        {
+          "word": "Hello",
+          "definition": "A greeting used to say hi to someone",
+          "example": "Hello, my name is John."
+        },
+        {
+          "word": "Nice to meet you",
+          "definition": "A polite response when meeting someone for the first time",
+          "example": "Nice to meet you! I'm Sarah."
+        },
+        {
+          "word": "How are you?",
+          "definition": "A common question to ask about someone's wellbeing",
+          "example": "How are you today?"
+        }
+      ],
+      "grammar": {
+        "topic": "Simple Present with To Be",
+        "rule": "Subject + am/is/are",
+        "examples": [
+          "I am fine.",
+          "You are welcome.",
+          "He is from London."
+        ]
+      },
+      "dialogue": [
+        {
+          "speaker": "Person A",
+          "text": "Hello! What's your name?"
+        },
+        {
+          "speaker": "Person B",
+          "text": "My name is Anna. Nice to meet you!"
+        },
+        {
+          "speaker": "Person A",
+          "text": "Nice to meet you too! How are you?"
+        },
+        {
+          "speaker": "Person B",
+          "text": "I'm fine, thank you. And you?"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "A2",
+      "title": "Shopping at the Market",
+      "description": "Learn vocabulary and phrases for shopping",
+      "vocabulary": [
+        {
+          "word": "How much?",
+          "definition": "A question to ask the price",
+          "example": "How much is this apple?"
+        },
+        {
+          "word": "Too expensive",
+          "definition": "Costs more money than you want to pay",
+          "example": "This jacket is too expensive for me."
+        },
+        {
+          "word": "Can I help you?",
+          "definition": "A polite offer to assist",
+          "example": "Can I help you find something?"
+        }
+      ],
+      "grammar": {
+        "topic": "Question Formation",
+        "rule": "How much + is/are + noun",
+        "examples": [
+          "How much is the milk?",
+          "How much are the tomatoes?"
+        ]
+      },
+      "dialogue": [
+        {
+          "speaker": "Customer",
+          "text": "How much is this bread?"
+        },
+        {
+          "speaker": "Shopkeeper",
+          "text": "It's £2.50"
+        },
+        {
+          "speaker": "Customer",
+          "text": "That's a bit expensive. Do you have anything cheaper?"
+        },
+        {
+          "speaker": "Shopkeeper",
+          "text": "Yes, we have this one for £1.50."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "B1",
+      "title": "Discussing Past Experiences",
+      "description": "Learn to talk about what you did using past tense",
+      "vocabulary": [
+        {
+          "word": "Yesterday",
+          "definition": "The day before today",
+          "example": "Yesterday I went to the cinema."
+        },
+        {
+          "word": "Amazing",
+          "definition": "Very impressive or surprising",
+          "example": "The movie was amazing!"
+        },
+        {
+          "word": "Unforgettable",
+          "definition": "Impossible to forget",
+          "example": "That was an unforgettable experience."
+        }
+      ],
+      "grammar": {
+        "topic": "Past Simple Narrative",
+        "rule": "Subject + Past Verb + details",
+        "examples": [
+          "I went to Paris last year.",
+          "She visited her grandparents.",
+          "We had a great time at the beach."
+        ]
+      },
+      "dialogue": [
+        {
+          "speaker": "Friend A",
+          "text": "What did you do yesterday?"
+        },
+        {
+          "speaker": "Friend B",
+          "text": "I went to the beach with my family."
+        },
+        {
+          "speaker": "Friend A",
+          "text": "How was it?"
+        },
+        {
+          "speaker": "Friend B",
+          "text": "It was amazing! The weather was perfect and the water was warm."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "B2",
+      "title": "Academic Writing: Argumentative Essays",
+      "description": "Learn to structure and write persuasive arguments",
+      "vocabulary": [
+        {
+          "word": "Furthermore",
+          "definition": "Additionally; also used in academic writing",
+          "example": "Furthermore, this approach has proven effective."
+        },
+        {
+          "word": "Counterargument",
+          "definition": "An opposing viewpoint",
+          "example": "A common counterargument is that technology reduces human interaction."
+        },
+        {
+          "word": "Nonetheless",
+          "definition": "However; in spite of that",
+          "example": "Nonetheless, we must consider the evidence."
+        }
+      ],
+      "grammar": {
+        "topic": "Complex Sentence Structures",
+        "rule": "Connecting ideas with conjunctions and discourse markers",
+        "examples": [
+          "Although some argue..., the evidence suggests...",
+          "While it is true that..., nonetheless..."
+        ]
+      },
+      "dialogue": []
+    },
+    {
+      "id": 5,
+      "level": "B1",
+      "title": "Ordering Food at a Restaurant",
+      "description": "Learn common phrases for ordering food and making requests",
+      "vocabulary": [
+        {
+          "word": "Table for two",
+          "definition": "A reservation for two people",
+          "example": "I have a reservation for a table for two."
+        },
+        {
+          "word": "Special",
+          "definition": "A particular item offered at a reduced price or as a limited offer",
+          "example": "What's today's special?"
+        },
+        {
+          "word": "Recommend",
+          "definition": "To suggest as being good or suitable",
+          "example": "I recommend the salmon."
+        }
+      ],
+      "grammar": {
+        "topic": "Polite Requests and Offers",
+        "rule": "Could/Would you... / May I...",
+        "examples": [
+          "Could I have the menu, please?",
+          "Would you like something to drink?",
+          "May I recommend the fish?"
+        ]
+      },
+      "dialogue": [
+        {
+          "speaker": "Waiter",
+          "text": "Good evening! Welcome to our restaurant. Do you have a reservation?"
+        },
+        {
+          "speaker": "Customer",
+          "text": "Yes, I have a reservation for two under the name Smith."
+        },
+        {
+          "speaker": "Waiter",
+          "text": "Perfect! Here's your table. What would you like to drink?"
+        }
+      ]
+    }
+  ]
+}

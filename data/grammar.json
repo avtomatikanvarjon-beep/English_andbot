@@ -1,0 +1,222 @@
+{
+  "A2": [
+    {
+      "topic": "Present Simple",
+      "rule": "Used for habits, routines, facts, and general truths",
+      "structure": "Subject + Base Verb (+ s/es for 3rd person singular)",
+      "examples": [
+        "I drink coffee every morning.",
+        "She works at a hospital.",
+        "They like pizza."
+      ],
+      "exercises": [
+        {
+          "question": "Complete: He __ to school every day.",
+          "options": ["go", "goes", "going", "gone"],
+          "answer": "goes",
+          "explanation": "3rd person singular requires -s ending"
+        }
+      ]
+    },
+    {
+      "topic": "Present Continuous",
+      "rule": "Used for actions happening right now or temporary situations",
+      "structure": "Subject + am/is/are + -ing form of verb",
+      "examples": [
+        "I am studying English.",
+        "She is reading a book.",
+        "They are playing football."
+      ],
+      "exercises": [
+        {
+          "question": "Complete: What __ you __?",
+          "options": ["do, do", "are, doing", "is, doing", "does, do"],
+          "answer": "are, doing",
+          "explanation": "Present continuous with 'you' requires 'are' + -ing"
+        }
+      ]
+    },
+    {
+      "topic": "Past Simple",
+      "rule": "Used for completed actions in the past",
+      "structure": "Subject + Past Verb (regular: -ed, irregular: varied forms)",
+      "examples": [
+        "I went to the store yesterday.",
+        "She watched a movie last night.",
+        "They played tennis yesterday."
+      ],
+      "exercises": [
+        {
+          "question": "Complete: She __ to Paris last summer.",
+          "options": ["go", "goes", "went", "going"],
+          "answer": "went",
+          "explanation": "Past simple of 'go' is 'went'"
+        }
+      ]
+    },
+    {
+      "topic": "Plural Nouns",
+      "rule": "Most nouns add -s or -es to form plural",
+      "structure": "Singular Noun + s/es = Plural Noun",
+      "examples": [
+        "cat → cats",
+        "box → boxes",
+        "baby → babies"
+      ],
+      "exercises": []
+    },
+    {
+      "topic": "Articles: A, An, The",
+      "rule": "Used to specify or introduce nouns",
+      "structure": "a/an + consonant/vowel, the + specific noun",
+      "examples": [
+        "I have a dog. (non-specific)",
+        "The dog is brown. (specific)",
+        "She is an engineer."
+      ],
+      "exercises": []
+    }
+  ],
+  "B1": [
+    {
+      "topic": "Present Perfect",
+      "rule": "Used for actions that started in the past and continue to present, or recent completed actions",
+      "structure": "Subject + have/has + Past Participle",
+      "examples": [
+        "I have lived here for 5 years.",
+        "She has finished her homework.",
+        "They have been to Japan."
+      ],
+      "exercises": [
+        {
+          "question": "Complete: How long __ you __ English?",
+          "options": ["do, study", "have, studied", "are, studying", "did, study"],
+          "answer": "have, studied",
+          "explanation": "Present perfect shows duration from past to now"
+        }
+      ]
+    },
+    {
+      "topic": "Conditional Sentences",
+      "rule": "Used to express hypothetical situations and their results",
+      "structure": "If + condition, + result (various tense combinations)",
+      "examples": [
+        "If I study hard, I will pass the exam. (First Conditional)",
+        "If I studied hard, I would pass the exam. (Second Conditional)",
+        "If I had studied hard, I would have passed the exam. (Third Conditional)"
+      ],
+      "exercises": [
+        {
+          "question": "Complete: If it rains tomorrow, we __ the picnic.",
+          "options": ["cancel", "will cancel", "would cancel", "cancelled"],
+          "answer": "will cancel",
+          "explanation": "First conditional: likely future situation"
+        }
+      ]
+    },
+    {
+      "topic": "Comparatives and Superlatives",
+      "rule": "Used to compare adjectives",
+      "structure": "Comparative: adjective + -er/more, Superlative: the + adjective + -est/most",
+      "examples": [
+        "She is taller than him. (comparative)",
+        "She is the tallest in the class. (superlative)",
+        "This is more interesting than that. (comparative)"
+      ],
+      "exercises": []
+    },
+    {
+      "topic": "Past Continuous",
+      "rule": "Used for actions that were happening at a specific time in the past",
+      "structure": "Subject + was/were + -ing form",
+      "examples": [
+        "I was reading when she arrived.",
+        "They were playing football yesterday."
+      ],
+      "exercises": []
+    },
+    {
+      "topic": "Future with Going To",
+      "rule": "Used to express plans or predictions",
+      "structure": "Subject + am/is/are + going to + base verb",
+      "examples": [
+        "I am going to study tomorrow.",
+        "She is going to travel next month."
+      ],
+      "exercises": []
+    }
+  ],
+  "B2": [
+    {
+      "topic": "Past Perfect Continuous",
+      "rule": "Used for actions that continued over a period before another past action",
+      "structure": "Subject + had been + -ing form",
+      "examples": [
+        "She had been working for hours when he arrived.",
+        "They had been studying all day before the exam."
+      ],
+      "exercises": [
+        {
+          "question": "Complete: By the time the doctor arrived, the patient __ for two hours.",
+          "options": ["was waiting", "had been waiting", "is waiting", "has been waiting"],
+          "answer": "had been waiting",
+          "explanation": "Past perfect continuous shows duration before a past event"
+        }
+      ]
+    },
+    {
+      "topic": "Mixed Conditionals",
+      "rule": "Combines different conditional structures",
+      "structure": "If + past, would/could + present verb",
+      "examples": [
+        "If I had studied, I would know this. (past condition, present result)",
+        "If I were rich, I would have bought a house. (hypothetical past)"
+      ],
+      "exercises": []
+    },
+    {
+      "topic": "Passive Voice",
+      "rule": "Emphasizes the action rather than the actor",
+      "structure": "Subject + auxiliary verb + past participle (+ by agent)",
+      "examples": [
+        "The book was written by Shakespeare.",
+        "The work will be completed tomorrow.",
+        "This building was constructed in 1990."
+      ],
+      "exercises": []
+    },
+    {
+      "topic": "Inversion for Emphasis",
+      "rule": "Changes word order for emphasis or formality",
+      "structure": "Auxiliary/adverb + subject + verb",
+      "examples": [
+        "Never have I seen such beauty. (instead of I have never seen...)",
+        "Only then did I understand. (instead of I understood only then)"
+      ],
+      "exercises": []
+    }
+  ],
+  "C1": [
+    {
+      "topic": "Advanced Use of Gerunds and Infinitives",
+      "rule": "Distinguishes between gerund and infinitive usage",
+      "structure": "Verb + gerund/infinitive depending on the verb",
+      "examples": [
+        "I prefer reading to watching TV.",
+        "He promised to arrive on time.",
+        "They insisted on leaving immediately."
+      ],
+      "exercises": []
+    },
+    {
+      "topic": "Subjunctive Mood",
+      "rule": "Expresses wishes, demands, suggestions, and hypothetical situations",
+      "structure": "(That) + subject + base verb / were for hypothetical",
+      "examples": [
+        "I suggest that he study harder.",
+        "If I were you, I would accept the offer."
+      ],
+      "exercises": []
+    }
+  ]
+}

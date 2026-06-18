@@ -1,0 +1,200 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "level": "A2",
+      "title": "Basic Vocabulary Quiz",
+      "description": "Test your knowledge of basic English words",
+      "questions": [
+        {
+          "id": 1,
+          "type": "multiple_choice",
+          "question": "What is the opposite of 'hot'?",
+          "options": ["warm", "cold", "cool", "freezing"],
+          "correct_answer": 1,
+          "explanation": "Cold is the direct opposite of hot."
+        },
+        {
+          "id": 2,
+          "type": "multiple_choice",
+          "question": "Which word means 'not expensive'?",
+          "options": ["expensive", "cheap", "dear", "costly"],
+          "correct_answer": 1,
+          "explanation": "Cheap means not expensive or low in price."
+        },
+        {
+          "id": 3,
+          "type": "fill_blank",
+          "question": "I __ coffee every morning.",
+          "options": ["drinks", "drink", "am drinking", "drank"],
+          "correct_answer": 1,
+          "explanation": "Use present simple 'drink' for habitual actions."
+        },
+        {
+          "id": 4,
+          "type": "true_false",
+          "question": "'Beautiful' means ugly.",
+          "correct_answer": 0,
+          "explanation": "False. Beautiful means attractive and pleasant to look at."
+        },
+        {
+          "id": 5,
+          "type": "multiple_choice",
+          "question": "What is a 'teacher'?",
+          "options": ["A person who sells food", "A person who teaches in a school", "A person who builds houses", "A person who grows plants"],
+          "correct_answer": 1,
+          "explanation": "A teacher is a person who teaches in a school."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "B1",
+      "title": "Past Tense Grammar Quiz",
+      "description": "Test your understanding of past tense usage",
+      "questions": [
+        {
+          "id": 1,
+          "type": "multiple_choice",
+          "question": "Complete: I __ to the store yesterday.",
+          "options": ["go", "goes", "went", "going"],
+          "correct_answer": 2,
+          "explanation": "Use past simple 'went' for completed actions."
+        },
+        {
+          "id": 2,
+          "type": "multiple_choice",
+          "question": "How long __ you __ English?",
+          "options": ["have, studied", "do, study", "did, study", "are, studying"],
+          "correct_answer": 0,
+          "explanation": "Use present perfect for duration from past to now."
+        },
+        {
+          "id": 3,
+          "type": "fill_blank",
+          "question": "She __ reading a book when I arrived.",
+          "options": ["was", "were", "am", "is"],
+          "correct_answer": 0,
+          "explanation": "Use 'was' with past continuous for 'she'."
+        },
+        {
+          "id": 4,
+          "type": "true_false",
+          "question": "'I have eaten' is present perfect tense.",
+          "correct_answer": 1,
+          "explanation": "True. 'Have eaten' is present perfect tense."
+        },
+        {
+          "id": 5,
+          "type": "multiple_choice",
+          "question": "Complete: If it __ tomorrow, we will stay home.",
+          "options": ["rains", "rained", "will rain", "raining"],
+          "correct_answer": 0,
+          "explanation": "In first conditional, use present simple in the 'if' clause."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "B2",
+      "title": "Advanced Vocabulary Quiz",
+      "description": "Test advanced vocabulary and word usage",
+      "questions": [
+        {
+          "id": 1,
+          "type": "multiple_choice",
+          "question": "What does 'ambiguous' mean?",
+          "options": ["Clear and certain", "Open to more than one interpretation", "Definitely true", "Obviously false"],
+          "correct_answer": 1,
+          "explanation": "Ambiguous means something is unclear or has multiple interpretations."
+        },
+        {
+          "id": 2,
+          "type": "multiple_choice",
+          "question": "Which word means 'lasting for a very short time'?",
+          "options": ["permanent", "ephemeral", "eternal", "chronic"],
+          "correct_answer": 1,
+          "explanation": "Ephemeral means lasting for a very short time."
+        },
+        {
+          "id": 3,
+          "type": "fill_blank",
+          "question": "The architect was __ in planning every detail.",
+          "options": ["careless", "meticulous", "lazy", "hasty"],
+          "correct_answer": 1,
+          "explanation": "Meticulous means showing great attention to detail."
+        },
+        {
+          "id": 4,
+          "type": "true_false",
+          "question": "'Pragmatic' means idealistic and theoretical.",
+          "correct_answer": 0,
+          "explanation": "False. Pragmatic means practical and realistic, not idealistic."
+        },
+        {
+          "id": 5,
+          "type": "multiple_choice",
+          "question": "What is a 'counterargument'?",
+          "options": ["A supporting argument", "An opposing viewpoint", "A conclusion", "An introduction"],
+          "correct_answer": 1,
+          "explanation": "A counterargument is an opposing viewpoint in a debate."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "C1",
+      "title": "Advanced Grammar and Expression",
+      "description": "Test complex grammar structures and sophisticated expression",
+      "questions": [
+        {
+          "id": 1,
+          "type": "multiple_choice",
+          "question": "Which sentence is correctly formed with inversion for emphasis?",
+          "options": ["Never I have seen such beauty.", "Never have I seen such beauty.", "Never I seen have such beauty.", "Never have seen I such beauty."],
+          "correct_answer": 1,
+          "explanation": "Correct inversion places the auxiliary before the subject."
+        },
+        {
+          "id": 2,
+          "type": "fill_blank",
+          "question": "The politician attempted to __ the real issues in the debate.",
+          "options": ["clarify", "obfuscate", "explain", "illuminate"],
+          "correct_answer": 1,
+          "explanation": "Obfuscate means to make unclear or difficult to understand."
+        },
+        {
+          "id": 3,
+          "type": "true_false",
+          "question": "'Perspicacious' means showing keen insight and understanding.",
+          "correct_answer": 1,
+          "explanation": "True. Perspicacious means having keen insight and understanding."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "IELTS_5",
+      "title": "IELTS Level 5 Quiz",
+      "description": "Practice for IELTS 5 level English proficiency",
+      "questions": [
+        {
+          "id": 1,
+          "type": "multiple_choice",
+          "question": "What does 'deteriorate' mean?",
+          "options": ["To improve", "To become worse", "To remain stable", "To disappear"],
+          "correct_answer": 1,
+          "explanation": "Deteriorate means to become progressively worse."
+        },
+        {
+          "id": 2,
+          "type": "fill_blank",
+          "question": "The new policies will help to __ the negative effects of inflation.",
+          "options": ["increase", "enhance", "mitigate", "accelerate"],
+          "correct_answer": 2,
+          "explanation": "Mitigate means to make less severe or serious."
+        }
+      ]
+    }
+  ]
+}

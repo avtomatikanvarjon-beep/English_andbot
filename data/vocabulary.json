@@ -1,0 +1,232 @@
+{
+  "A2": [
+    {
+      "word": "apple",
+      "pronunciation": "ˈæpəl",
+      "definition": "A round fruit that is red, green, or yellow",
+      "example": "I eat an apple every morning.",
+      "partOfSpeech": "noun",
+      "category": "food"
+    },
+    {
+      "word": "beautiful",
+      "pronunciation": "ˈbjuːtəfəl",
+      "definition": "Attractive and pleasant to look at",
+      "example": "The sunset was beautiful.",
+      "partOfSpeech": "adjective",
+      "category": "appearance"
+    },
+    {
+      "word": "cat",
+      "pronunciation": "kæt",
+      "definition": "A small domesticated carnivorous mammal",
+      "example": "My cat is sleeping on the sofa.",
+      "partOfSpeech": "noun",
+      "category": "animals"
+    },
+    {
+      "word": "happy",
+      "pronunciation": "ˈhæpi",
+      "definition": "Feeling or showing pleasure or contentment",
+      "example": "She was very happy about the news.",
+      "partOfSpeech": "adjective",
+      "category": "emotions"
+    },
+    {
+      "word": "water",
+      "pronunciation": "ˈwɔːtər",
+      "definition": "A colorless, odorless, and tasteless liquid essential for life",
+      "example": "Please drink more water.",
+      "partOfSpeech": "noun",
+      "category": "nature"
+    },
+    {
+      "word": "school",
+      "pronunciation": "skuːl",
+      "definition": "A place where children go to learn",
+      "example": "I go to school every day.",
+      "partOfSpeech": "noun",
+      "category": "education"
+    },
+    {
+      "word": "friend",
+      "pronunciation": "frend",
+      "definition": "A person you know well and like",
+      "example": "She is my best friend.",
+      "partOfSpeech": "noun",
+      "category": "people"
+    },
+    {
+      "word": "fast",
+      "pronunciation": "fɑːst",
+      "definition": "Moving or capable of moving at high speed",
+      "example": "The car is very fast.",
+      "partOfSpeech": "adjective",
+      "category": "speed"
+    }
+  ],
+  "B1": [
+    {
+      "word": "accomplish",
+      "pronunciation": "əˈkɑːmplɪʃ",
+      "definition": "To complete successfully or achieve a goal",
+      "example": "She accomplished her dream of becoming a doctor.",
+      "partOfSpeech": "verb",
+      "category": "success"
+    },
+    {
+      "word": "benevolent",
+      "pronunciation": "bəˈnevələnt",
+      "definition": "Kind and generous",
+      "example": "His benevolent nature earned him many friends.",
+      "partOfSpeech": "adjective",
+      "category": "character"
+    },
+    {
+      "word": "commemorate",
+      "pronunciation": "kəˈmeməreɪt",
+      "definition": "To honor or remember an important event or person",
+      "example": "We commemorated the historical event with a ceremony.",
+      "partOfSpeech": "verb",
+      "category": "events"
+    },
+    {
+      "word": "diligent",
+      "pronunciation": "ˈdɪlɪdʒənt",
+      "definition": "Showing care and effort in your work",
+      "example": "She is a diligent student who always does her homework.",
+      "partOfSpeech": "adjective",
+      "category": "character"
+    },
+    {
+      "word": "elaborate",
+      "pronunciation": "ɪˈlæbərət",
+      "definition": "Detailed and complicated in design",
+      "example": "The wedding dress had an elaborate design with many details.",
+      "partOfSpeech": "adjective",
+      "category": "design"
+    }
+  ],
+  "B2": [
+    {
+      "word": "ambiguous",
+      "pronunciation": "æmˈbɪɡjuəs",
+      "definition": "Open to more than one interpretation; unclear",
+      "example": "The contract contained ambiguous language that needed clarification.",
+      "partOfSpeech": "adjective",
+      "category": "communication"
+    },
+    {
+      "word": "ephemeral",
+      "pronunciation": "ɪˈfemərəl",
+      "definition": "Lasting for a very short time",
+      "example": "The beauty of cherry blossoms is ephemeral.",
+      "partOfSpeech": "adjective",
+      "category": "time"
+    },
+    {
+      "word": "meticulous",
+      "pronunciation": "məˈtɪkjələs",
+      "definition": "Showing great attention to detail; very careful and precise",
+      "example": "The architect was meticulous in planning the building.",
+      "partOfSpeech": "adjective",
+      "category": "character"
+    },
+    {
+      "word": "pragmatic",
+      "pronunciation": "præɡˈmætɪk",
+      "definition": "Dealing with things in a practical, realistic way",
+      "example": "We need a pragmatic approach to solve this problem.",
+      "partOfSpeech": "adjective",
+      "category": "thinking"
+    }
+  ],
+  "C1": [
+    {
+      "word": "obfuscate",
+      "pronunciation": "əbˈfʌskeɪt",
+      "definition": "To deliberately make something unclear or difficult to understand",
+      "example": "The politician tried to obfuscate the issue during the debate.",
+      "partOfSpeech": "verb",
+      "category": "communication"
+    },
+    {
+      "word": "perspicacious",
+      "pronunciation": "ˌpɜːrspɪˈkeɪʃəs",
+      "definition": "Having keen insight and understanding",
+      "example": "Her perspicacious analysis of the market trends was impressive.",
+      "partOfSpeech": "adjective",
+      "category": "intelligence"
+    },
+    {
+      "word": "serendipitous",
+      "pronunciation": "ˌserənˈdɪpɪtəs",
+      "definition": "Occurring by chance in a happy or beneficial way",
+      "example": "Meeting him at the conference was a serendipitous encounter.",
+      "partOfSpeech": "adjective",
+      "category": "luck"
+    },
+    {
+      "word": "ubiquitous",
+      "pronunciation": "juːˈbɪkwɪtəs",
+      "definition": "Present, appearing, or found everywhere",
+      "example": "Smartphones are ubiquitous in modern society.",
+      "partOfSpeech": "adjective",
+      "category": "presence"
+    }
+  ],
+  "IELTS_5": [
+    {
+      "word": "deteriorate",
+      "pronunciation": "dɪˈtɪəriəreɪt",
+      "definition": "To become progressively worse",
+      "example": "The patient's condition began to deteriorate.",
+      "partOfSpeech": "verb",
+      "category": "change"
+    },
+    {
+      "word": "mitigate",
+      "pronunciation": "ˈmɪtɪɡeɪt",
+      "definition": "To make something less severe or serious",
+      "example": "Exercise can mitigate the effects of stress.",
+      "partOfSpeech": "verb",
+      "category": "action"
+    }
+  ],
+  "IELTS_6": [
+    {
+      "word": "transient",
+      "pronunciation": "ˈtrænʃənt",
+      "definition": "Lasting only for a short time; temporary",
+      "example": "The economic boom proved to be transient.",
+      "partOfSpeech": "adjective",
+      "category": "time"
+    },
+    {
+      "word": "coherent",
+      "pronunciation": "koʊˈhɪrənt",
+      "definition": "Logical and consistent; easy to understand",
+      "example": "His argument was coherent and well-structured.",
+      "partOfSpeech": "adjective",
+      "category": "logic"
+    }
+  ],
+  "IELTS_7": [
+    {
+      "word": "exacerbate",
+      "pronunciation": "ɪɡˈzæsərbeɪt",
+      "definition": "To make a problem worse or more serious",
+      "example": "Poor policies exacerbate economic inequality.",
+      "partOfSpeech": "verb",
+      "category": "action"
+    },
+    {
+      "word": "incongruous",
+      "pronunciation": "ɪnˈkɑːŋɡruəs",
+      "definition": "Not in harmony or keeping with the surroundings",
+      "example": "His casual attitude was incongruous with the formal setting.",
+      "partOfSpeech": "adjective",
+      "category": "fitting"
+    }
+  ]
+}
